@@ -249,6 +249,11 @@ python app.py
 - Backbone: torchvision ResNet‑18 (ImageNet weights).
 - Riemannian optimization on Stiefel manifold: QR retraction and tangent‑space projection as implemented in this repo.
 
-
-## License
-No license file is included in this repository. If you plan to release or reuse parts of this work, please add an appropriate license.
+```
+@misc{bonilla2025orthogonalexplainability,
+  title  = {Orthogonal Explainability on Neural Networks},
+  author = {Bonilla Salvador, Diego},
+  year   = {2025},
+  url    = {https://github.com/diegobonilla98/Orthogonality-Explainability}
+}
+```
